@@ -49,6 +49,20 @@ order: 4
   </div>
 </div>
 
+
+# **Website Chair**
+
+<div class="chair-grid">
+  <div class="chair-card">
+    <img src="../figures/haoxuan.png" alt="Haoxuan Zhang">
+    <div>
+      <h3>Haoxuan Zhang</h3>
+      <p>Ph.D. Student at the University of North Texas, USA.</p>
+    </div>
+  </div>
+</div>
+
+
 # **Contact Information**
 
 - **Haihua Chen**, University of North Texas, 3940 N. Elm St., Denton, TX, USA 76207, haihua.chen@unt.edu
