@@ -34,7 +34,7 @@ The workshop will feature invited keynote talks, peer-reviewed research presenta
 | --- | --- |
 | Title | The Second International Workshop on Data Mining and AI for Law |
 | Acronym | DMAIL 2026 |
-| Host conference | IEEE BigData 2026 |
+| Host conference | IEEE International Conference on Big Data 2026 |
 | Conference dates | December 14-17, 2026 |
 | Workshop date | December 17, 2026 (tentative) |
 | Location | Phoenix, Arizona, USA |
