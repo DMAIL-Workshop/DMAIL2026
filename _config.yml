@@ -1,0 +1,13 @@
+# Welcome to Jekyll!
+
+title: DMAIL@IEEE BigData 2026
+emails:
+  general: dmailworkshop@gmail.com
+  haihua_chen: haihua.chen@unt.edu
+description: >-
+  DMAIL 2026: The Second International Workshop on Data Mining and AI for Law @ IEEE BigData 2026
+baseurl: ""
+url: ""
+markdown: GFM
+theme: minima
+
