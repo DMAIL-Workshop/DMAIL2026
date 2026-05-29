@@ -25,7 +25,7 @@ order: 4
   </div>
 
 <div class="chair-card">
-  <img src="../figures/joel.jpg" alt="Joel Niklaus" style="object-fit: cover; object-position: 58% center;">
+  <img src="../figures/joel.jpg" alt="Joel Niklaus" style="object-fit: cover; object-position: 68% center;">
   <div>
     <h3>Joel Niklaus, Ph.D.</h3>
     <p>Research Scientist at Hugging Face, focusing on developing and evaluating legal-domain LLM systems. His research emphasizes multilingual dataset curation for legal NLP and has been recognized at top conferences including an Outstanding Paper Award at ACL.</p>
