@@ -4,34 +4,7 @@ title: Organization
 permalink: /organization/
 order: 4
 ---
-<style>
-.chair-card img,
-.chair-photo {
-  width: 160px;
-  height: 200px;
-  object-fit: cover;
-  display: block;
-}
 
-.chair-photo-joel {
-  object-position: 58% center;
-}
-</style>
-
-<style>
-.chair-card img {
-  width: 160px;
-  height: 200px;
-  object-fit: cover;
-  object-position: center;
-  display: block;
-}
-
-.chair-card img[alt="Yang Zhang"] {
-  height: 240px;
-  object-position: 50% 35%;
-}
-</style>
 
 # **Program Chairs**
 
@@ -53,7 +26,7 @@ order: 4
   </div>
 
 <div class="chair-card">
-  <img src="../figures/joel.jpg" alt="Joel Niklaus" class="chair-photo chair-photo-joel">
+  <img src="../figures/joel.jpg" alt="Joel Niklaus">
   <div>
     <h3>Joel Niklaus, Ph.D.</h3>
     <p>Research Scientist at Hugging Face, focusing on developing and evaluating legal-domain LLM systems. His research emphasizes multilingual dataset curation for legal NLP and has been recognized at top conferences including an Outstanding Paper Award at ACL.</p>
