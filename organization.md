@@ -18,6 +18,21 @@ order: 4
 }
 </style>
 
+<style>
+.chair-card img {
+  width: 160px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+}
+
+.chair-card img[alt="Yang Zhang"] {
+  height: 240px;
+  object-position: 50% 35%;
+}
+</style>
+
 # **Program Chairs**
 
 <div class="chair-grid">
