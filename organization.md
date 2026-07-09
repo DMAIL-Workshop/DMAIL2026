@@ -63,6 +63,18 @@ order: 4
   </div>
 </div>
 
+# **Publicity Chair**
+
+<div class="chair-grid">
+  <div class="chair-card">
+    <img src="../figures/mao.jpeg" alt="Mao Guan">
+    <div>
+      <h3>Mao Guan</h3>
+      <p>Senior Applied Scientist at LinkedIn, USA.</p>
+    </div>
+  </div>
+</div>
+
 
 # **Contact Information**
 
