@@ -45,4 +45,4 @@ Submissions must contain original work not previously published or under conside
 
 All submissions will be triple-blind reviewed by the Program Committee based on technical quality, relevance to the scope of the workshop, originality, significance, and clarity.
 
-Manuscripts must be submitted electronically through Cyberchair. The submission link is [Cyberchair Submission]([https://dmail-workshop.github.io/DMAIL2025/](https://wi-lab.com/cyberchair/2026/bigdata26/scripts/submit.php?subarea=S41&undisplay_detail=1&wh=/cyberchair/2026/bigdata26/scripts/ws_submit.php)).
+Manuscripts must be submitted electronically through Cyberchair. The submission link is [Cyberchair Submission](https://wi-lab.com/cyberchair/2026/bigdata26/scripts/submit.php?subarea=S41&undisplay_detail=1&wh=/cyberchair/2026/bigdata26/scripts/ws_submit.php).
