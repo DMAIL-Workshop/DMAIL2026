@@ -46,11 +46,3 @@ Submissions must contain original work not previously published or under conside
 All submissions will be triple-blind reviewed by the Program Committee based on technical quality, relevance to the scope of the workshop, originality, significance, and clarity.
 
 Manuscripts must be submitted electronically through Cyberchair. The submission link is [Cyberchair Submission]([https://dmail-workshop.github.io/DMAIL2025/](https://wi-lab.com/cyberchair/2026/bigdata26/scripts/submit.php?subarea=S41&undisplay_detail=1&wh=/cyberchair/2026/bigdata26/scripts/ws_submit.php)).
-
-# **Legal Bias Flagging Challenge**
-
-We will also organize the **Legal Bias Flagging Challenge** at DMAIL 2026. This challenge offers participants the opportunity to work with diverse, multilingual legal datasets while addressing a critical ethical issue in legal AI.
-
-Participants are encouraged to submit a short paper describing their method, results, and insights. Challenge papers should be no more than 4 pages and must follow the standard two-column U.S. letter IEEE conference format. Authors of accepted papers must present their work at DMAIL 2026 to have their paper included in the official workshop proceedings.
-
-More challenge details will be announced later.
