@@ -45,7 +45,7 @@ Submissions must contain original work not previously published or under conside
 
 All submissions will be triple-blind reviewed by the Program Committee based on technical quality, relevance to the scope of the workshop, originality, significance, and clarity.
 
-Manuscripts must be submitted electronically through EasyChair. The submission link is **TBA**.
+Manuscripts must be submitted electronically through Cyberchair. The submission link is **TBA**.
 
 # **Legal Bias Flagging Challenge**
 
