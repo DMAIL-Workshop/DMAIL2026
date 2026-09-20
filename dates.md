@@ -8,7 +8,8 @@ order: 3
 # **Key Dates**
 
 - **Workshop paper submission deadline:** September 30, 2026
-- **Workshop paper notification deadline:** November 10, 2026
+- **Workshop paper notification deadline:** October 25, 2026
+- **Camera-ready submission deadline:** November 15, 2026
 - **Workshop date:** December 17, 2026 (tentative)
 
 IEEE BigData 2026 will be held **December 14-17, 2026** in **Phoenix, Arizona, USA**.
