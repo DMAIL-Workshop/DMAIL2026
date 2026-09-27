@@ -86,43 +86,23 @@ order: 4
 
 # **Program Committee Members**
 
-The DMAIL 2025 Program Committee included 37 people from academia and industry, representing 16 countries. We will invite them as PC members for DMAIL 2026 and expand the committee with additional members.
+The DMAIL 2026 Program Committee included 18 people from academia and industry, representing 10 countries: 
 
-- Frank Schilder, Thomson Reuters Labs, USA
-- May Myo Zin, Center for Juris-Informatics, ROIS-DS, Tokyo, Japan
-- Minh-Phuong Nguyen, Japan Advanced Institute of Science and Technology, Ishikawa, Japan
-- Thi-Hai-Yen Vuong, VNU University of Engineering and Technology, Vietnam National University, Hanoi, Vietnam
-- Vu Tran, Japan Advanced Institute of Science and Technology, Ishikawa, Japan
-- Wachara Funwacharakorn, Center for Juris-Informatics, ROIS-DS, Tokyo, Japan
-- Pedro Miguel Freitas, Universidade Catolica Portuguesa, Portugal
-- Sarah Ryan, University of North Texas, USA
-- Yuki Todo, Kanazawa University, Japan
-- Jiangping Chen, University of Illinois Urbana-Champaign, USA
-- Karolina Naranjo-Velasco, University of Virginia, USA
-- Manuel Fiorelli, University of Rome Tor Vergata, Italy
-- Ilaria Angela Amantea, University of Turin, Italy
-- Reshma Sheik, National Institute of Technology, India
-- Ankita Gupta, University of Massachusetts Amherst, USA
-- Yoshinobu Kano, Shizuoka University, Japan
+- May Myo Zin, Center of Juris-Informatics, ROIS-DS, Japan
+- Mehmet Mikail Demir, University at Albany – SUNY, United States
+- Thi-Hai-Yen Vuong, VNU University of Engineering and Technology, Vietnam
+- Huihui Xu, University of Pittsburgh, United States
+- Emilio Sulis, University of Turin, Italy
 - Masaharu Yoshioka, Hokkaido University, Japan
-- Marco Siino, University of Catania, Italy
-- Jaromir Savelka, Carnegie Mellon University, USA
-- Kripabandhu Ghosh, Indian Institute of Science Education and Research, India
-- Xuran Wang, University of Pennsylvania, USA
+- Sabine Wehnert, Ruhr University Bochum, Germany
+- Li Zhang, University of Pittsburgh, United States
 - David Lillis, University College Dublin, Ireland
-- Tomasz Zurek, University of Amsterdam, Netherlands
-- Huihui Xu, University of Pittsburgh, USA
-- Prakash Poudyal, Kathmandu University, Nepal
-- Mi-Young Kim, University of Alberta, Canada
-- Zhuoren Jiang, Zhejiang University, China
-- Emilio Sulis, University of Torino, Italy
-- Abe Bohan Hou, Johns Hopkins University, USA
-- Andrea Tagarelli, University of Calabria, Italy
-- Colin Doyle, Loyola Law School Los Angeles, USA
-- Ruta Liepina, University of Bologna, Italy
-- Aamir Abdullah, University of Hawai'i at Manoa, USA
-- Yue Zhang, University of Texas at Dallas, USA
-- Jack Mumford, University of Liverpool, England
-- Michal Araszkiewicz, Jagiellonian University, Poland
-- Sabine Wehnert, Otto von Guericke University Magdeburg, Germany
-
+- Aamir Abdullah, William S. Richardson School of Law, United States
+- Tomasz Zurek, Institute of Mathematics and Computer Science, Netherlands
+- Mi-Young Kim, Department of Computing Science, U. of Alberta, Canada
+- Jieh-Sheng Lee, National Yang Ming Chiao Tung University School of Law, Taiwan
+- Karolina Naranjo-Velasco, University of Virginia, United States
+- Pedro Miguel Freitas, Universidade Católica Portuguesa, Portugal
+- Wachara Fungwacharakorn, Center for Juris-Informatics, ROIS-DS, Japan
+- Colin Doyle, Loyola Law School, Los Angeles, United States
+- Moriya Dechtiar, Harvard University, United States
